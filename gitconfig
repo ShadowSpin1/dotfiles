@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diabloxtran@gmail.com
+	name = Ricky Tran
